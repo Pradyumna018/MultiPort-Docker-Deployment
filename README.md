@@ -23,7 +23,7 @@ git clone https://github.com/Pradyumna018/MultiPort-Docker-Deployment.git
 ```
 # Change Directory
 ```
-cd Cafe App
+cd CafeApp
 ```
 # Containerize the Application using Docker
 
