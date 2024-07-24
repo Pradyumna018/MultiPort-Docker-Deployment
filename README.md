@@ -7,8 +7,7 @@ sudo hostnamectl set-hostname myapp
 
 # For Docker Installation
 ```
-sudo apt-get update
-
+sudo apt-get update -y
 sudo apt-get install docker.io -y
 ```
 ```
